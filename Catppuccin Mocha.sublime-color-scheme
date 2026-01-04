@@ -1,0 +1,18 @@
+// Documentation at https://www.sublimetext.com/docs/color_schemes.html
+{
+    "variables":
+    {},
+    "globals":
+    {},
+    "rules": [
+    {
+        "name": "Global Classes & Types (Catppuccin Yellow)",
+        "scope": "entity.name.type, entity.name.class, support.class, entity.other.inherited-class, new.expr entity.name.type",
+        "foreground": "#F9E2AF",
+    },
+    {
+        "name": "No Italic No Bold (Flat Style)",
+        "scope": "comment, keyword, storage, storage.type, entity.name.function, entity.other.attribute-name, variable.language, constant.language, support.type, support.function",
+        "font_style": ""
+    }]
+}

@@ -1,0 +1,18 @@
+// Documentation at https://www.sublimetext.com/docs/color_schemes.html
+{
+    "variables":
+    {},
+    "globals":
+    {},
+    "rules": [
+    {
+        "name": "Global Classes & Types (Catppuccin Yellow)",
+        "scope": "entity.name.type, entity.name.class, support.class, entity.other.inherited-class, new.expr entity.name.type",
+        "foreground": "#E5C07B",
+    },
+    {
+        "name": "Strict One Dark Functions (PHP Fixed)",
+        "scope": "entity.name.function, support.function, variable.function, meta.function-call.method.without-arguments, meta.function-call.static.without-arguments",
+        "foreground": "#61AFEF",
+    }]
+}

@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"installed_packages":
+	[
+		"AutoFileName",
+		"BracketHighlighter",
+		"DotENV",
+		"Emmet",
+		"FileIcons",
+		"HTML-CSS-JS Prettify",
+		"JsPrettier",
+		"Laravel Blade",
+		"LSP",
+		"LSP-intelephense",
+		"LSP-lua",
+		"LSP-typescript",
+		"One Dark Material - Theme",
+		"Package Control",
+		"SFTP",
+	],
+	"in_process_packages":
+	[
+	],
+}
